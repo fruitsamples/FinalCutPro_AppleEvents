@@ -1,0 +1,46 @@
+p {
+	font-size: 9pt; font-family: "Lucida Grande", Arial, sans-serif; line-height: 12pt;
+}
+
+a {
+	color: #778fbd; font-size: 9pt; font-family: "Lucida Grande", Arial, sans-serif; font-weight: bold; line-height: 12pt; text-decoration: none;
+}
+
+a:hover {
+        font-family: "Lucida Grande", Arial, sans-serif;
+        text-decoration: underline;
+}
+
+h1 {
+        font-size: 13pt;
+        line-height: 15pt;
+        font-family: "Lucida Grande", Arial, sans-serif;
+        font-weight: bold;
+        margin-top: 6px;
+        margin-bottom: 14px;
+}
+
+h2 {
+        font-size: 12pt;
+        line-height: 15pt;
+        font-family: "Lucida Grande", Arial, sans-serif;
+        font-weight: bold;
+        color: #666;
+        margin-top: 0;
+        margin-bottom: 14px;
+}
+
+h3 {
+        font-size: 9pt;
+        font-family: "Lucida Grande", Arial, sans-serif;
+        font-weight: bold;
+        line-height: 12pt;
+        margin-top: 0;
+        margin-bottom: 0;
+}
+
+#iconimg {
+	margin-top: 6px;
+	padding-right: 6px;
+	margin-bottom: 5px
+}
